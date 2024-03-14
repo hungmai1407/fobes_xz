@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "fobes_xz",
   "version": "13.0.0",
   "description": "Angular 16 with Electron 25 (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "homepage": "https://github.com/hungmai1407",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "0x.K",
+    "email": "dummy@d.cj"
   },
   "keywords": [
     "angular",
@@ -22,7 +22,7 @@
     "linux"
   ],
   "main": "app/main.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "postinstall": "electron-builder install-app-deps",
     "ng": "ng",
