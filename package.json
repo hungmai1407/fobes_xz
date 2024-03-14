@@ -1,11 +1,11 @@
 {
   "name": "fobes_xz",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "description": "Angular 16 with Electron 25 (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/hungmai1407",
+  "homepage": "https://github.com/hungmai1407/fobes_xz",
   "author": {
-    "name": "0x.K",
-    "email": "dummy@d.cj"
+    "name": "kunvjps2",
+    "email": "maisyhungns@gmail.com"
   },
   "keywords": [
     "angular",
